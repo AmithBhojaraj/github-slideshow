@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Cricket is the best sport
 Use the left arrow to go back!
